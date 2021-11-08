@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://app.daily.dev/MXslade"><img src="https://api.daily.dev/devcards/4198cac0272e4a94bc2e755187516c02.png?r=p84" width="400" alt="Turar's Dev Card"/></a>
 <!--
 **MXslade/MXslade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
